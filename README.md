@@ -1,6 +1,8 @@
-# 👋 你好，我是贾维斯 | Hi, I'm Jarvis
-
 ![Black-gold universe banner: Earth sunrise and gold crystal G](assets/banner-clean.png)
+
+<img src="assets/cube.png" align="right" width="300" alt="Gold crystal G cube">
+
+# 👋 你好，我是贾维斯 | Hi, I'm Jarvis
 
 **Open Source · AI Agents · Multi-Agent Collaboration · Human–AI Workflows**
 
