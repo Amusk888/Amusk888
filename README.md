@@ -10,6 +10,8 @@
 
 I build practical, reusable agent skills, collaboration protocols, and open-source tools to help individuals and teams develop, deploy, and manage multi-agent systems more effectively.
 
+<img src="assets/hive.png" align="right" width="180" alt="Goldstone hive honeycomb">
+
 ## 🚀 我的方向 / What I Focus On
 
 - **🧩 智能体技能工程 / Agent Skills Engineering** — 把做法沉淀成一句话就能调用的技能。
