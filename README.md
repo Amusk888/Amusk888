@@ -17,9 +17,7 @@ I build agent skills, collaboration protocols, and open-source tools for multi-a
 - **开源工具 / Open-Source Tools** — 注重实用性、清晰文档与可复现示例。
 - **人机协同 / Human–AI Workflows** — 人负责目标、判断与验收，AI 辅助执行。
 
-<p align="center">
-  <img src="assets/hive.png" width="220" alt="Goldstone hive honeycomb" />
-</p>
+<img src="assets/hive.png" align="right" width="160" alt="Goldstone hive honeycomb">
 
 ## 🛠️ 正在推进 / Work in Progress
 
